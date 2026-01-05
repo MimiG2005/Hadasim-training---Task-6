@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../xUnit Test Project (.NET)/xUnit Test Project (.NET).csproj" Id="b02ce225-f96e-4888-a748-118618aee447" />
+  <Project Path="Calculator.csproj" Id="daaeb888-58c5-4dbd-90f6-40cef3464012" />
+  <Project Path="CalculatorApp/CalculatorApp.csproj" Id="a70332ed-d657-47a3-a9ad-03d221fde5df" />
+</Solution>
