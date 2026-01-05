@@ -30,7 +30,7 @@ namespace src
             var operators = new List<char>();
             int i = 0;
 
-            // ---------- Parsing ----------
+      
             while (i < expression.Length)
             {
                 bool isNegative = false;
